@@ -715,7 +715,7 @@ LOCATE PR, 80
 PRINT "�"
 IF PR = 18 THEN 3070
 GOTO 3060
-3070  REM  ******* FIN DU TABLEAU ***********
+3070  REM  ******** FIN DU TABLEAU ***********
 PRINT "읕컴컴컴컴컴컴컴컴컴컴컴좔컴컴컴컴컴컴컴컴컴컴컨컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴켸"
 IF H > HH + 1 THEN 680
 3080 LOCATE 20, 1
