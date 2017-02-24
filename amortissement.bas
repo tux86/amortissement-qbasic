@@ -1,4 +1,3 @@
-
 SCREEN 0
 REM ' BEGIN OF LOOP
 REM ******** Programme calculs d'amortissements 1.4 2eme edition ********
